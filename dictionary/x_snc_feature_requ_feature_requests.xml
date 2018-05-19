@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Feature Requests" max_length="40" name="x_snc_feature_requ_feature_requests" type="collection">
+        <element label="Classification" mandatory="true" max_length="32" name="classification" reference="x_snc_feature_requ_classifications" type="reference"/>
+        <element label="Product" mandatory="true" max_length="32" name="product" reference="x_snc_feature_requ_products" type="reference"/>
+        <element label="Source" mandatory="true" max_length="32" name="source" reference="x_snc_feature_requ_request_sources" type="reference"/>
+    </element>
+</database>

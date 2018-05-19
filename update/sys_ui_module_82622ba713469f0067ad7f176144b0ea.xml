@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Feature Requests">f1b1ef6713469f0067ad7f176144b0e9</application>
+        <filter/>
+        <name>Request Sources</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_feature_requ.request_sources_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>chris.haas</sys_created_by>
+        <sys_created_on>2018-05-19 21:58:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>82622ba713469f0067ad7f176144b0ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Sources</sys_name>
+        <sys_package display_value="Feature Request Analyzer" source="x_snc_feature_requ">5e41276713469f0067ad7f176144b008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Feature Request Analyzer">5e41276713469f0067ad7f176144b008</sys_scope>
+        <sys_update_name>sys_ui_module_82622ba713469f0067ad7f176144b0ea</sys_update_name>
+        <sys_updated_by>chris.haas</sys_updated_by>
+        <sys_updated_on>2018-05-19 21:58:30</sys_updated_on>
+        <table>x_snc_feature_requ_request_sources</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

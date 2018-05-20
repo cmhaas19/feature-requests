@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Sources" language="en" table="x_snc_feature_requ_request_sources">
+    <sys_documentation element="name" label="Name" language="en" table="x_snc_feature_requ_classifications">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>name</element>
             <help/>
             <hint/>
-            <label>Sources</label>
+            <label>Name</label>
             <language>en</language>
-            <name>x_snc_feature_requ_request_sources</name>
-            <plural>Sources</plural>
+            <name>x_snc_feature_requ_classifications</name>
+            <plural>Names</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>chris.haas</sys_created_by>
-            <sys_created_on>2018-05-19 21:58:32</sys_created_on>
-            <sys_id>2e626ba713469f0067ad7f176144b04b</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Sources</sys_name>
+            <sys_created_on>2018-05-19 22:12:03</sys_created_on>
+            <sys_id>a0856f2b13469f0067ad7f176144b07a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name</sys_name>
             <sys_package display_value="Feature Request Analyzer" source="x_snc_feature_requ">5e41276713469f0067ad7f176144b008</sys_package>
             <sys_policy/>
             <sys_scope display_value="Feature Request Analyzer">5e41276713469f0067ad7f176144b008</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_feature_requ_request_sources__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_feature_requ_classifications_name_en</sys_update_name>
             <sys_updated_by>chris.haas</sys_updated_by>
-            <sys_updated_on>2018-05-19 22:17:21</sys_updated_on>
+            <sys_updated_on>2018-05-19 22:12:03</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

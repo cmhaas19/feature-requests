@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2c15a737130a13005611f8fed144b02e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_feature_requ_request_sources">
+    <x_snc_feature_requ_request_sources action="INSERT_OR_UPDATE">
+        <name>Company Mandate</name>
+        <sys_created_by>chris.haas</sys_created_by>
+        <sys_created_on>2018-05-20 16:48:47</sys_created_on>
+        <sys_id>2c15a737130a13005611f8fed144b02e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chris.haas</sys_updated_by>
+        <sys_updated_on>2018-05-20 16:48:47</sys_updated_on>
+    </x_snc_feature_requ_request_sources>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chris.haas</sys_created_by>
+        <sys_created_on>2018-05-20 16:49:14</sys_created_on>
+        <sys_id>3d35e337130a13005611f8fed144b050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company Mandate</sys_name>
+        <sys_package display_value="Feature Request Analyzer" source="x_snc_feature_requ">5e41276713469f0067ad7f176144b008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Feature Request Analyzer">5e41276713469f0067ad7f176144b008</sys_scope>
+        <sys_update_name>sys_metadata_link_3d35e337130a13005611f8fed144b050</sys_update_name>
+        <sys_updated_by>chris.haas</sys_updated_by>
+        <sys_updated_on>2018-05-20 16:49:14</sys_updated_on>
+        <tablename>x_snc_feature_requ_request_sources</tablename>
+    </sys_metadata_link>
+</record_update>

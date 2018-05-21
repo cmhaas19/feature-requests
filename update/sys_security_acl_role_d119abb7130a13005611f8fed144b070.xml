@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chris.haas</sys_created_by>
+        <sys_created_on>2018-05-20 17:06:08</sys_created_on>
+        <sys_id>d119abb7130a13005611f8fed144b070</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_feature_requ_product_categories.x_snc_feature_requ.product_categories_user</sys_name>
+        <sys_package display_value="Feature Request Analyzer" source="x_snc_feature_requ">5e41276713469f0067ad7f176144b008</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Feature Request Analyzer">5e41276713469f0067ad7f176144b008</sys_scope>
+        <sys_security_acl display_value="x_snc_feature_requ_product_categories">1519abb7130a13005611f8fed144b06d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d119abb7130a13005611f8fed144b070</sys_update_name>
+        <sys_updated_by>chris.haas</sys_updated_by>
+        <sys_updated_on>2018-05-20 17:06:08</sys_updated_on>
+        <sys_user_role display_value="x_snc_feature_requ.product_categories_user" name="x_snc_feature_requ.product_categories_user">15192bb7130a13005611f8fed144b032</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

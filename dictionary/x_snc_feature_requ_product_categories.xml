@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Product Categories" max_length="40" name="x_snc_feature_requ_product_categories" type="collection">
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Product" max_length="32" name="product" reference="x_snc_feature_requ_products" type="reference"/>
+        <index name="index">
+            <element name="product"/>
+        </index>
+    </element>
+</database>
